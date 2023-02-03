@@ -1,1 +1,1 @@
-this page intentionally left blank
+$$\text{this page intentionally left blank}$$
